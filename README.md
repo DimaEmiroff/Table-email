@@ -1,1 +1,2 @@
-# Email letters
+# only EMAILS LETTERS 
+## На чистом HTML для электронных рассылок по электронной почте
